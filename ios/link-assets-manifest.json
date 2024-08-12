@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EduAUVICWANTHand-Bold.ttf",
+      "sha1": "c0d8a08c89119017ebfeb7dd1c34535a3d6b2aa2"
+    },
+    {
+      "path": "assets/fonts/EduAUVICWANTHand-Medium.ttf",
+      "sha1": "eb9c391e639de0f55aa03e13d48016e1b670d68b"
+    },
+    {
+      "path": "assets/fonts/EduAUVICWANTHand-Regular.ttf",
+      "sha1": "ec74584f2548aa4927967805d22cb1d762d1405a"
+    },
+    {
+      "path": "assets/fonts/EduAUVICWANTHand-SemiBold.ttf",
+      "sha1": "9164f56ec97c814b15afe7b1602e77dda2f01f9e"
+    },
+    {
+      "path": "assets/fonts/Gupter-Medium.ttf",
+      "sha1": "45d6163dc4d66bda8aaa41011218eb80c00d0b35"
+    },
+    {
+      "path": "assets/fonts/Gupter-Regular.ttf",
+      "sha1": "121dc6f5271a27f9df2584ba17833277b85ed617"
+    },
+    {
+      "path": "assets/fonts/Oswald-Bold.ttf",
+      "sha1": "6e78c90d65a6133d979daebc1255d2f560a97c79"
+    },
+    {
+      "path": "assets/fonts/Oswald-ExtraLight.ttf",
+      "sha1": "ac9323c6f3e5965bbeee4c57db7b78d8d67c9d1b"
+    },
+    {
+      "path": "assets/fonts/Oswald-Light.ttf",
+      "sha1": "18b6fe10677763e882985371a015bdc45ec2943c"
+    },
+    {
+      "path": "assets/fonts/Oswald-Medium.ttf",
+      "sha1": "70e75da33d777c839cf59cb042adf7fc5fa0235a"
+    },
+    {
+      "path": "assets/fonts/Oswald-Regular.ttf",
+      "sha1": "06aae8f5a28908ba8eca0d5bdc01cedc2a184a5f"
+    },
+    {
+      "path": "assets/fonts/Oswald-SemiBold.ttf",
+      "sha1": "10d1c319ab0685f35f3c9eb87a9524de0560345e"
+    },
+    {
+      "path": "assets/fonts/Redressed-Regular.ttf",
+      "sha1": "f563ac14ff4bf7a7533600f51f6a0d5e263a971e"
+    }
+  ]
+}
